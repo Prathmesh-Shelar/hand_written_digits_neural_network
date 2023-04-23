@@ -1,0 +1,1 @@
+An implementation of neural network with TensorFlow and Keras to recognize hand written digits. The data set we are using is mnist dataset which is available within Keras.
